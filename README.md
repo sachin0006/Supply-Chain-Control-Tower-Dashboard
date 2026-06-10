@@ -1,5 +1,25 @@
 # Supply Chain Control Tower Dashboard – Demand Forecasting, Inventory Optimization & Supplier Analytics
 
+# Supply Chain Control Tower Dashboard
+
+## Dashboard Preview
+
+### Executive Control Tower
+
+![Executive Control Tower](Screenshots/Executive_Control_Tower.png)
+
+### Demand Forecasting & Planning
+
+![Demand Forecasting](Screenshots/Demand_Forecasting.png)
+
+### Inventory Optimization & Stock Health
+
+![Inventory Optimization](Screenshots/Inventory_Optimization.png)
+
+### Supplier & Logistics Performance
+
+![Supplier & Logistics](Screenshots/Supplier_Logistics.png)
+
 ## Project Overview
 
 This project presents an end-to-end Supply Chain Analytics solution developed using Power BI and Python. The solution combines historical order data, inventory information, supplier performance metrics, and machine learning-based demand forecasts to provide a centralized Executive Control Tower for strategic decision-making.
