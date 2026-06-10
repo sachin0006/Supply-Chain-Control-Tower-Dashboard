@@ -1,6 +1,5 @@
 # Supply Chain Control Tower Dashboard – Demand Forecasting, Inventory Optimization & Supplier Analytics
 
-# Supply Chain Control Tower Dashboard
 
 ## Dashboard Preview
 
